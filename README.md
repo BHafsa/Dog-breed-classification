@@ -54,8 +54,6 @@ that allow to test the model and see how it is performing on custom images. The 
 is an interactive flask web application that allow to upload an image and detects 
 the dogs and humans.
 
-## Evaluation
-
 
 
 ## Creator
