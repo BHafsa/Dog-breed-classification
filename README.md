@@ -25,13 +25,13 @@ The project contains two parts. The first part is concerned about building suita
 models that will allow to achieve the overall goal of the project. The second part
 focuses on deploying the models in a web application.
 
-1. [Model Development](./model_exploartion/dog_app.ipynb)
+1. [Model Development](https://github.com/BHafsa/Dog-breed-classification/tree/main/model_exploration/dog_app.ipynb)
 During this first part, two detectors are used. The first one is based on cascade features and
 open-cv2 to detect human faces. The second detector uses the ResNet pre-trained model
 to detect the presence of dogs in an image. Finally, transfer learning is used to detect the breed of 
 the detected dogs.
 
-2. [A flask application](./web_app.png)
+2. [A flask application](https://github.com/BHafsa/Dog-breed-classification/tree/web_app.png)
 The second part of the project is concerned about providing a user-friendly tool
 that allow to test the model and see how it is performing on custom images. The tool
 is an interactive flask web application that allow to upload an image and detects 
