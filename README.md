@@ -31,7 +31,7 @@ open-cv2 to detect human faces. The second detector uses the ResNet pre-trained 
 to detect the presence of dogs in an image. Finally, transfer learning is used to detect the breed of 
 the detected dogs.
 
-2. [A flask application](https://github.com/BHafsa/Dog-breed-classification/tree/web_app.png)
+2. [A flask application](https://github.com/BHafsa/Dog-breed-classification/tree/web_app)
 The second part of the project is concerned about providing a user-friendly tool
 that allow to test the model and see how it is performing on custom images. The tool
 is an interactive flask web application that allow to upload an image and detects 
