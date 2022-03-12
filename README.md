@@ -47,8 +47,7 @@ the dogs and humans.
 ## Metrics
 ## EDA
 ## Modelling
-## Hyperparameter tuning
-No hyper-parameters optimization during the current project.
+
 
 ## Results
 
