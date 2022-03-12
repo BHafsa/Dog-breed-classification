@@ -43,4 +43,4 @@ def predict_breed(img_path, model_name="Resnet50"):
     with open('data/dog_names.pkl', 'rb') as f:
         dog_names = pickle.load(f)
         
-    return dog_names[np.argmax(predicted_vector)][-1].split('.')[-1]
+    return dog_names[np.argmax(predicted_vector)]
