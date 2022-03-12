@@ -6,11 +6,7 @@
 
 
 
-## Problem Introduction
-
-Images and photos are omnipresent in the digital era and are yet to increase with the large popularity that social media is gaining. Thus, the images are becoming an important information support not only in daily life but in many scientific fields also. Animal species preserving for example rely in huge part on recording images of different animals and following their development. 
-It is thus of paramount importance to develop models that provide acceptable performance in recognising an detecting different species and breeds. Traditional image processing algorithms used to rely on hand generated features which made it a hard problem to solve. Nonetheless, as the hardware industry thrived throughout the years, several deep models have seen the light. These models do not only offer automatic feature learning with gradient descent algorithm but also allow to transfer learning and use the learned features on different problems.  
-
+## Problem Overview
 
 In this project, Convolutional Neural Networks are used to detect and recognise Dog's breed in images. The power of transfer learning is demonstrated through the use of several state-of-the-art models. The ResNe50 model provided the best accuracy and was deployed in a flask web-application. We want to detect human and dog faces. When a dog is detected, his breed is also
 identified using CNN models. The project combines a series of models designed to perform various tasks in 
